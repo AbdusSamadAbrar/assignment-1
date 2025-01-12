@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "Fira Sans", serif;
+    margin-left: 90px;
+    margin-right: 90px;
+    background: rgb(245, 245, 245);
+}
+#bd1{
+    margin-top: 24px;
+    margin-bottom: 24px;
+    /* margin-right: 160px; */
+    margin-left: 160px;
+    display: flex;
+    justify-content: space-between;
+}
+.bd1h{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 32px;
+font-weight: 700;}
+.bd1b{
+    color: rgb(0, 106, 80);
+font-family: Fira Sans;
+font-size: 18px;
+font-weight: 600;
+box-sizing: border-box;
+border: 1px solid rgb(0, 106, 80);
+border-radius: 8px;
+margin: 0px 10px;
+padding: 10px 20px 10px 20px;
+margin-right: 90px;
+} 
+#info-flag{
+    border-radius: 24px;
+background: rgb(198, 228, 214);
+width: 1040px;
+height: 520px;
+margin-top: 20px;
+display: flex;
+}
+.info1{
+margin-left: 100px;
+}
+.info1p{
+    padding-top: 117px;
+    color: rgba(14, 14, 14, 0.5);
+font-family: Fira Sans;
+font-size: 24px;
+font-weight: 500;
+}
+.info1h{
+    margin-top: 18px;
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 36px;
+font-weight: 600;
+}
+.info1b{
+    color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 18px;
+font-weight: 600;
+margin-top: 41px;
+border-radius: 8px;
+background: rgb(0, 106, 80);
+padding: 13px 24px 13px 24px;
+}
+
+.flag{
+    width: 474.03px;
+height: 329.21px;
+margin-top: 80px;
+margin-left: 64px;
+margin-bottom: 70px;
+margin-right: 100px;
+}
