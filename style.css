@@ -247,6 +247,7 @@ margin-left: 24px;
     margin-right: 24px;
     background-image: url(resources/quote-bg.png);
     background-repeat: no-repeat;
+    background-position: ;
 }
 
 .quotep1{
@@ -273,4 +274,151 @@ font-weight: 400;
 margin-left: 24px;
 margin-top: 4px;
 margin-bottom: 48px;
+}
+.rh{color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 112px;
+}
+.rp{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+margin-top: 24px;
+}
+#recent1{
+    border-radius: 24px;
+background: rgb(255, 255, 255);
+width: 1140px;
+height: 402px;
+display: flex;
+border: 1px solid rgba(14, 14, 14, 0.15);
+margin-top: 32px;
+}
+.sat1{
+    width: 408px;
+height: 306px;
+border-radius: 24px;
+margin-top: 22.5px;
+margin-left: 22.5px;
+margin-right: -37px;
+}
+.info1h{
+    color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 32px;
+font-weight: 700;
+margin-top: 56px;
+}
+.info1img{
+    width: 134px;
+height: 40px;
+margin-top: 12px;
+}
+.date-time1{
+    display: flex;
+    gap: 8px;
+    margin-top: 12px;
+}
+.date1{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+}
+.time1{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+margin-left: 2px;
+}
+.info11p{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+margin-top: 12px;
+margin-right: 35.5px;
+}
+.info11b{
+    color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 18px;
+font-weight: 600;
+border-radius: 8px;
+background: rgb(0, 106, 80);
+padding: 7px 18px 7px 18px;
+margin-top: 32px;
+}
+#recent2{
+    border-radius: 24px;
+background: rgb(255, 255, 255);
+width: 1140px;
+height: 402px;
+display: flex;
+border: 1px solid rgba(14, 14, 14, 0.15);
+margin-top: 32px;
+}
+.sat2{
+    width: 408px;
+height: 306px;
+border-radius: 24px;
+margin-top: 22.5px;
+margin-left: 22.5px;
+margin-right: 65px;
+}
+.info2h{
+    color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 32px;
+font-weight: 700;
+margin-top: 56px;
+margin-right: -37px;
+}
+.info2img{
+    width: 134px;
+height: 40px;
+margin-top: 12px;
+}
+.date-time2{
+    display: flex;
+    gap: 8px;
+    margin-top: 12px;
+}
+.date2{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+}
+.time2{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+margin-left: 2px;
+}
+.info22p{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+margin-top: 12px;
+margin-right: 35.5px;
+}
+.info22b{
+    color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 18px;
+font-weight: 600;
+border-radius: 8px;
+background: rgb(0, 106, 80);
+padding: 7px 18px 7px 18px;
+margin-top: 32px;
+}
+.info2{
+    margin-left: 48px;
 }
