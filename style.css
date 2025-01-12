@@ -135,3 +135,103 @@ margin-right: 24px;
     border-radius: 16px;
     background: rgb(255, 255, 255);
 }
+
+.abrarh{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+margin-top: 80px;
+}
+.abrarp{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+margin-top: 24px;
+}
+.visionimg{
+    width: 49.66px;
+height: 53.09px;
+margin-top: 32px;
+margin-right: 32px;
+margin-left: 32px;
+}
+.visionh{
+    color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 20px;
+font-weight: 700;
+margin-top: 24px;
+margin-right: 32px;
+margin-left: 32px;
+}
+.visionp{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+margin-top: 12px;
+margin-right: 32px;
+margin-left: 32px;
+}
+#vision{
+    display: flex;
+    margin-top: 32px;
+}
+.digital-transformation{
+    box-sizing: border-box;
+border-radius: 16px;
+background: rgba(84, 144, 245, 0.2);
+width: 410.67px;
+height: 325px;
+margin-right: 24px;
+}
+.green-energy{
+    box-sizing: border-box;
+border-radius: 16px;
+background: rgb(198, 228, 214);
+width: 410.67px;
+height: 325px;
+margin-right: 24px;
+}
+.modern-infrastructure{
+    width: 410.67px;
+height: 325px;
+box-sizing: border-box;
+border-radius: 16px;
+background: rgb(247, 235, 207);
+}
+.visionb1{
+    color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 600;
+border-radius: 8px;
+padding: 7px 15px 7px 15px;
+background: rgb(84, 144, 245);
+margin-top: 48px;
+margin-left: 24px;
+}
+.visionb2{
+    color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 600;
+border-radius: 8px;
+padding: 7px 15px 7px 15px;
+background: rgb(9, 161, 92);
+margin-top: 48px;
+margin-left: 24px;
+}
+.visionb3{
+    color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 600;
+border-radius: 8px;
+padding: 7px 15px 7px 15px;
+background: rgb(255, 194, 57);
+margin-top: 48px;
+margin-left: 24px;
+}
